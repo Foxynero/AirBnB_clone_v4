@@ -155,6 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Foster Adu-Gyamfi <adugyamfifoster@gmail.com>
+Asare Felix Adu Gyamfi <flexywork327@gmail.com>
 
 ## License
 
